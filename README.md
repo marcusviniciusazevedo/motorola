@@ -1,6 +1,6 @@
 # Protótipo de site para Motorola
 
-Proposta de fazer um exercício de criação de um site com slide dinâmico.
+Proposta de criar um website experimental com slide dinâmico.
 
 ### Tecnologias
 ![Static Badge](https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5&logoColor=white&link=https%3A%2F%2Fx.com%2F%3Flang%3Dpt)
